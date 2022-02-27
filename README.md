@@ -1,4 +1,4 @@
-This Project was made by Tihan Fernando
+This Project was made by Tihan Fernando.
 And this for fun and to learn only. Do not use this project to do illegal things.
 
 🟥🟥🟥 You have to install nodeJS to run this project 🟥🟥🟥
