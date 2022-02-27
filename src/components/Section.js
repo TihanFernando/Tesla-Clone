@@ -11,7 +11,7 @@ function Section({ title, description, leftBtnText, rightBtnText, backgroundImg}
       <Buttons>
         <ButtonGroup>
           <LeftButton>
-            {leftBtnTex}
+            {leftBtnText}
           </LeftButton>
           {rightBtnText && 
             <RightButton>
